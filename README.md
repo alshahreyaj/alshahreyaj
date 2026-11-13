@@ -37,11 +37,7 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alshahreyaj&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alshahreyaj&layout=compact&theme=tokyonight" />
+  <img src="./profile/stats.svg" width="495" />
 </p>
 
 ---
