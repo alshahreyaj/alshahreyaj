@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Reyaj</h1>
-<h3 align="center">Software Engineer | AI/ML Enthusiast | Android Developer</h3>
+<h3 align="center">Software Engineer | AI/ML Enthusiast | Problem Solver</h3>
 
 <p align="center">
   Building scalable software and exploring on-device AI.
@@ -20,12 +20,12 @@
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,go,js,ts,python,kotlin,cpp" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,python,ts,go" />
 </p>
 
 **Frameworks & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,react,nextjs,androidstudio,unity,tensorflow,postgres,mysql,aws,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,unity,tensorflow,postgres,mysql,aws,docker,git,linux" />
 </p>
 
 ### 📌 Featured Projects
@@ -37,11 +37,11 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alshahreyaj&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alshahreyaj&layout=compact&theme=tokyonight" />
 </p>
 
 ---
