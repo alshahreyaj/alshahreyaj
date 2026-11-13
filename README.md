@@ -1,26 +1,25 @@
 
-<h1 align="center">Hi 👋, I'm Reyaj</h1>
+<h1 align="center">Hi, I'm Reyaj</h1>
 <h3 align="center">Software Engineer | AI/ML Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  Building scalable software and exploring on-device AI.
+  Building scalable software and exploring AI.
 </p>
 
 ---
 
-### 🚀 About Me
+### About Me
 
 - 💻 Software Engineer with 4+ years of experience
 - 🤖 Interested in AI, Machine Learning and LLMs
-- 📱 Building **Dapple**, an offline AI-powered Android app
-- 🎮 Interested in game development with Unity
+- 🎮 Do game development as hobby
 - 🌱 Currently exploring advanced AI/ML concepts
 
 ### 🛠️ Technologies & Tools
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,js,python,ts,go" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,cs,python,ts,go" />
 </p>
 
 **Frameworks & Tools**
@@ -34,14 +33,6 @@
 - **Battle of Agents** – Multiplayer game project.
 - **Adventure of Arlo & Mini** – Unity game development project.
 
-### 📊 GitHub Statistics
-
 <p align="center">
-  <img src="./profile/stats.svg" width="495" />
-</p>
-
----
-
-<p align="center">
-  Thanks for visiting my profile! ⭐
+  Thanks for visiting my profile! 
 </p>
